@@ -1,0 +1,72 @@
+@import url('dlmenu.css');
+html{
+    font-size: 100%;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    overflow: auto;
+}
+
+body{
+    margin:0; padding:0;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 20px;
+    -webkit-font-smoothing: antialiased;
+    overflow: hidden;
+    background: #4B4855;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    padding-top: 0.25px;
+    line-height: 2px;
+    color: white;
+    text-transform: uppercase;
+}
+h7 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    padding-top: 0.25px;
+    line-height: 2px;
+    color: white;
+    text-transform: uppercase;
+}
+h8 {
+}
+h9 {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+h10 {
+    text-transform: uppercase;
+    color: white;
+    font-size: 35px;
+    margin-left: 50px;
+    display: inline-block;
+    float: left;
+}
+span {
+    text-transform: uppercase;
+    color: white;
+    font-size: 35px;
+    margin-left: 100px;
+}
+h11 {
+    font-family: 'Muli', sans-serif;
+    color: white;
+}
+leftpew {
+    padding:10px;
+}
+#jellybean {
+    border-style: dashed;
+    border-width: 5px;
+    border-color: gray;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#page1 {
+    background: #4B4855;
+}
